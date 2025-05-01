@@ -1,0 +1,2 @@
+D:/fprojects/tune_player/android/app/.cxx/Debug/733by683/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/fprojects/tune_player/android/app/.cxx/Debug/733by683/armeabi-v7a/CMakeFiles/rebuild_cache.dir
